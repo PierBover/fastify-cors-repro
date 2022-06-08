@@ -1,0 +1,24 @@
+{
+  "name": "fastify-cors-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierBover/fastify-cors-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierBover/fastify-cors-repro/issues"
+  },
+  "homepage": "https://github.com/PierBover/fastify-cors-repro#readme",
+  "dependencies": {
+    "@fastify/cors": "^7.0.0",
+    "fastify": "^3.29.0"
+  }
+}
